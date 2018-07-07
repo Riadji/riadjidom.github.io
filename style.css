@@ -1,0 +1,50 @@
+body {
+      background: url("./image.jpg") no-repeat right;
+      background-size: auto;
+
+}
+
+.isi_tulisan {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+
+#item1 {
+  font-size: 20px;
+  position: relative;
+  top: 20px;
+  left: 450px;
+}
+
+#lblresult1 {
+  color: white;
+  font-size: 20px;
+  position: relative;
+  top: 10px;
+  left: 522px;
+}
+
+#tombol {
+  position: relative;
+  top: 20px;
+  left: 535px;
+} */
+
+
+.title {
+      margin-left: 130px;
+      font-family: 'Bree Serif', serif;
+}
+
+/* .button a {
+      text-transform: uppercase;
+      text-decoration: none;
+      padding: 20px 50px;
+      color: #FFA500;
+      font-family: 'Libre Baskerville', serif;
+} */
+
+/* .text {
+      font-family: 'Libre Baskerville', serif;
+} */
